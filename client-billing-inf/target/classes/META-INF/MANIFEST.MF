@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: client-billing-core
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sofikul
+Implementation-Vendor-Id: com.sofikultech.nextgen
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/client-billi
+ ng/client-billing-core/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
